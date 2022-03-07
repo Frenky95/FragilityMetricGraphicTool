@@ -1,0 +1,444 @@
+VERS,NTC,TTL,TLR,MTLR,MRTL,MCR,MMR,MCMMR,CC,CHANGE,CODE_SMELLS,TD,DEBT_RATIO,CLOC,LOC,NOC,NOF,NOM,STAT
+android-1.6_r1,3,128,0.0,0.0,0.0,0.0,0.0,0.0,6134,,2925,20358,1.6,293,1091,285,326,1933,16977
+android-1.6_r1.1,3,128,0.11732355637030248,0.0,0,0.0,0,0.0,6134,,2925,20358,1.6,293,1091,285,326,1933,16977
+android-1.6_r1.2,3,128,0.11732355637030248,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,293,1091,285,326,1933,16977
+android-1.6_r1.3,3,128,0.11732355637030248,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,293,1091,285,326,1933,16977
+android-1.6_r1.4,3,128,0.11732355637030248,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,293,1091,285,326,1933,16977
+android-1.6_r2,3,128,0.11732355637030248,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,293,1091,285,326,1933,16977
+android-2.1_r1,3,128,0.11438784629133154,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(45) src/com/android/calculator2/CalculatorDisplay.java(36) src/com/android/calculator2/CalculatorEditable.java(10) src/com/android/calculator2/ColorButton.java(64) src/com/android/calculator2/Logic.java(13) ,2925,20358,1.6,295,1119,285,326,1933,16977
+android-2.0_r1,3,128,0.11438784629133154,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,295,1119,285,326,1933,16977
+android-2.0.1_r1,3,128,0.11438784629133154,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,295,1119,285,326,1933,16977
+android-1.6_r1.5,3,128,0.11732355637030248,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(45) src/com/android/calculator2/CalculatorDisplay.java(36) src/com/android/calculator2/CalculatorEditable.java(10) src/com/android/calculator2/ColorButton.java(64) src/com/android/calculator2/Logic.java(13) ,2925,20358,1.6,293,1091,285,326,1933,16977
+android-2.1_r2,3,128,0.11438784629133154,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(45) src/com/android/calculator2/CalculatorDisplay.java(36) src/com/android/calculator2/CalculatorEditable.java(10) src/com/android/calculator2/ColorButton.java(64) src/com/android/calculator2/Logic.java(13) ,2925,20358,1.6,295,1119,285,326,1933,16977
+android-2.1_r2.1s,3,128,0.11438784629133154,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,295,1119,285,326,1933,16977
+android-2.1_r2.1p,3,128,0.11438784629133154,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,295,1119,285,326,1933,16977
+android-2.1_r2.1p2,3,128,0.11438784629133154,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,295,1119,285,326,1933,16977
+android-2.2_r1,3,128,0.11377777777777778,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(18) src/com/android/calculator2/Logic.java(7) src/com/android/calculator2/PanelSwitcher.java(39) ,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.2_r1.1,3,128,0.11377777777777778,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.2.1_r1,3,128,0.11377777777777778,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.2_r1.3,3,128,0.11377777777777778,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.2_r1.2,3,128,0.11377777777777778,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.3_r1,3,128,0.1152115211521152,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) src/com/android/calculator2/EventListener.java(3) src/com/android/calculator2/Logic.java(6) src/com/android/calculator2/PanelSwitcher.java(9) ,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.1_r1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.2.1_r2,3,128,0.11377777777777778,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) src/com/android/calculator2/EventListener.java(3) src/com/android/calculator2/Logic.java(6) src/com/android/calculator2/PanelSwitcher.java(9) ,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.2.2_r1,3,128,0.11377777777777778,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.3.2_r1,3,128,0.1152115211521152,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) src/com/android/calculator2/EventListener.java(3) src/com/android/calculator2/Logic.java(6) src/com/android/calculator2/PanelSwitcher.java(9) ,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.3_r1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.4_r1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.4_r0.9,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.3_r1.1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.5_r1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.7_r1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.6_r1,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-2.3.6_r0.9,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-4.0.1_r1,3,128,0.08493696084936961,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(306) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/ColorButton.java(20) src/com/android/calculator2/EventListener.java(56) src/com/android/calculator2/Logic.java(168) src/com/android/calculator2/PanelSwitcher.java(50) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,292,1507,285,326,1933,16977
+android-2.2.3_r1,3,128,0.11377777777777778,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(307) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/ColorButton.java(20) src/com/android/calculator2/EventListener.java(59) src/com/android/calculator2/Logic.java(174) src/com/android/calculator2/PanelSwitcher.java(59) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,291,1125,285,326,1933,16977
+android-2.2.3_r2,3,128,0.11377777777777778,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1125,285,326,1933,16977
+android-4.0.1_r1.2,3,128,0.08493696084936961,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(307) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/ColorButton.java(20) src/com/android/calculator2/EventListener.java(59) src/com/android/calculator2/Logic.java(174) src/com/android/calculator2/PanelSwitcher.java(59) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,292,1507,285,326,1933,16977
+android-4.0.3_r1,3,128,0.0835509138381201,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(6) src/com/android/calculator2/EventListener.java(4) src/com/android/calculator2/Logic.java(4) ,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.0.1_r1.1,3,128,0.08493696084936961,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(6) src/com/android/calculator2/EventListener.java(4) src/com/android/calculator2/Logic.java(4) ,2925,20358,1.6,292,1507,285,326,1933,16977
+android-4.0.2_r1,3,128,0.08493696084936961,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,292,1507,285,326,1933,16977
+android-sdk-adt_r16.0.1,3,128,0.08493696084936961,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,292,1507,285,326,1933,16977
+android-sdk-4.0.3_r1,3,128,0.0835509138381201,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(6) src/com/android/calculator2/EventListener.java(4) src/com/android/calculator2/Logic.java(4) ,2925,20358,1.6,313,1532,285,326,1933,16977
+android-sdk-4.0.3-tools_r1,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-cts-2.2_r8,3,128,0.11377777777777778,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(307) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(26) src/com/android/calculator2/EventListener.java(63) src/com/android/calculator2/Logic.java(178) src/com/android/calculator2/PanelSwitcher.java(59) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,291,1125,285,326,1933,16977
+android-cts-2.3_r10,3,128,0.1152115211521152,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) src/com/android/calculator2/EventListener.java(3) src/com/android/calculator2/Logic.java(6) src/com/android/calculator2/PanelSwitcher.java(9) ,2925,20358,1.6,291,1111,285,326,1933,16977
+android-cts-2.3_r11,3,128,0.1152115211521152,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,291,1111,285,326,1933,16977
+android-cts-4.0_r1,3,128,0.08493696084936961,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(306) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/ColorButton.java(20) src/com/android/calculator2/EventListener.java(56) src/com/android/calculator2/Logic.java(168) src/com/android/calculator2/PanelSwitcher.java(50) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,292,1507,285,326,1933,16977
+android-cts-verifier-4.0_r1,3,128,0.0835509138381201,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(6) src/com/android/calculator2/EventListener.java(4) src/com/android/calculator2/Logic.java(4) ,2925,20358,1.6,313,1532,285,326,1933,16977
+android-cts-2.3_r12,3,128,0.1152115211521152,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(306) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(26) src/com/android/calculator2/EventListener.java(60) src/com/android/calculator2/Logic.java(172) src/com/android/calculator2/PanelSwitcher.java(50) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,291,1111,285,326,1933,16977
+android-4.0.4_r1.1,3,128,0.0835509138381201,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(306) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(26) src/com/android/calculator2/EventListener.java(60) src/com/android/calculator2/Logic.java(172) src/com/android/calculator2/PanelSwitcher.java(50) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,313,1532,285,326,1933,16977
+android-2.2.3_r2.1,3,128,0.11377777777777778,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(307) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(26) src/com/android/calculator2/EventListener.java(63) src/com/android/calculator2/Logic.java(178) src/com/android/calculator2/PanelSwitcher.java(59) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,291,1125,285,326,1933,16977
+android-cts-4.0.3_r1,3,128,0.0835509138381201,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(307) src/com/android/calculator2/CalculatorDisplay.java(76) src/com/android/calculator2/CalculatorEditText.java(186) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(26) src/com/android/calculator2/EventListener.java(63) src/com/android/calculator2/Logic.java(178) src/com/android/calculator2/PanelSwitcher.java(59) src/com/android/calculator2/Persist.java(23) ,2925,20358,1.6,313,1532,285,326,1933,16977
+android-cts-verifier-4.0.3_r1,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-cts-4.0.3_r2,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.0.3_r1.1,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.0.4_r1,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.0.4_r1.2,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.0.4_r2,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.0.4_r2.1,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-sdk-adt_r20,3,128,0.0835509138381201,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,313,1532,285,326,1933,16977
+android-4.1.1_r1,3,128,0.0794044665012407,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(11) src/com/android/calculator2/CalculatorDisplay.java(6) src/com/android/calculator2/CalculatorEditText.java(58) src/com/android/calculator2/ColorButton.java(5) src/com/android/calculator2/Logic.java(39) ,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r1.1,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r2,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r3,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-cts-4.1_r1,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r4,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r5,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r6,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.2_r1,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.1_r6.1,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.2_r1,3,128,0.08258064516129032,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.2.1_r1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-cts-4.2_r1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-sdk-support_r11,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.2.1_r1.1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.2.1_r1.2,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.2.2_r1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-cts-4.1_r2,3,128,0.0794044665012407,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1612,285,326,1933,16977
+android-cts-4.2_r2,3,128,0.08258064516129032,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.2.2_r1.1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.2.2_r1.2,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.1.2_r2,3,128,0.0794044665012407,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.1.2_r2.1,3,128,0.0794044665012407,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.3_r2.1,3,128,0.08258064516129032,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r2,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r0.9.1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r0.9,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r1.1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r2.2,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r3,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r2.3,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3_r3.1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.3.1_r1,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.4_r0.7,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.4_r0.8,3,128,0.08258064516129032,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1550,285,326,1933,16977
+android-4.4_r0.9,3,128,0.08252740167633785,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) ,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4_r1.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4_r1.2,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-cts-4.4_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.1_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.2_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-sdk-4.4.2_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.2_r2,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-cts-4.1_r4,3,128,0.0794044665012407,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1612,285,326,1933,16977
+android-4.4.3_r1.1,3,128,0.08252740167633785,0.0,0.0,0.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(1) src/com/android/calculator2/CalculatorDisplay.java(2) src/com/android/calculator2/ColorButton.java(73) src/com/android/calculator2/Logic.java(1) src/com/android/calculator2/PanelSwitcher.java(1) ,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.3_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.4_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.4_r2,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4w_r1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4_r1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4_r1.1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4_r1.2.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.1_r1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.2_r1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.2_r2.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-sdk-4.4.2_r1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.3_r1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.3_r1.1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.4_r1.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-4.4.4_r2.0.1,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-l-preview_r2,3,128,0.08252740167633785,0.0,0,0.0,0.0,0.0,6134,,2925,20358,1.6,317,1551,285,326,1933,16977
+android-5.0.0_r2,0,0,0.0,0,0.07758620689655173,1.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(614) src/com/android/calculator2/CalculatorDisplay.java(163) src/com/android/calculator2/CalculatorEditText.java(311) src/com/android/calculator2/CalculatorEditable.java(110) src/com/android/calculator2/CalculatorExpressionBuilder.java(93) src/com/android/calculator2/CalculatorExpressionEvaluator.java(77) src/com/android/calculator2/CalculatorExpressionTokenizer.java(71) src/com/android/calculator2/CalculatorPadLayout.java(120) src/com/android/calculator2/CalculatorPadViewPager.java(116) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(65) src/com/android/calculator2/EventListener.java(136) src/com/android/calculator2/History.java(118) src/com/android/calculator2/HistoryAdapter.java(87) src/com/android/calculator2/HistoryEntry.java(69) src/com/android/calculator2/Logic.java(332) src/com/android/calculator2/PanelSwitcher.java(179) src/com/android/calculator2/Persist.java(81) tests/src/com/android/calculator2/CalculatorHitSomeButtons.java(140) tests/src/com/android/calculator2/CalculatorInstrumentationTestRunner.java(41) tests/src/com/android/calculator2/tests/CalculatorLaunchPerformance.java(53) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r5.1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.0_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-wear-5.0.0_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.0.2_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.1.0_r1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.0.2_r3,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.1.1_r2,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.0_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-wear-5.1.0_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-m-preview,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-wear-5.1.1_r1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.0_r3,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.1.1_r5,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.1_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-m-preview-1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r9,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-4.4_r4,3,128,0.08252740167633785,1.828125,0.07745779543197617,0,0,0,6134,src/com/android/calculator2/Calculator.java(611) src/com/android/calculator2/CalculatorDisplay.java(163) src/com/android/calculator2/CalculatorEditText.java(311) src/com/android/calculator2/CalculatorEditable.java(110) src/com/android/calculator2/CalculatorExpressionBuilder.java(93) src/com/android/calculator2/CalculatorExpressionEvaluator.java(85) src/com/android/calculator2/CalculatorExpressionTokenizer.java(71) src/com/android/calculator2/CalculatorPadLayout.java(120) src/com/android/calculator2/CalculatorPadViewPager.java(116) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(65) src/com/android/calculator2/EventListener.java(136) src/com/android/calculator2/History.java(118) src/com/android/calculator2/HistoryAdapter.java(87) src/com/android/calculator2/HistoryEntry.java(69) src/com/android/calculator2/Logic.java(332) src/com/android/calculator2/PanelSwitcher.java(179) src/com/android/calculator2/Persist.java(81) tests/src/com/android/calculator2/CalculatorHitSomeButtons.java(140) tests/src/com/android/calculator2/CalculatorInstrumentationTestRunner.java(41) tests/src/com/android/calculator2/tests/CalculatorLaunchPerformance.java(53) ,2925,20358,1.6,317,1551,285,326,1933,16977
+android-5.1.1_r10,0,0,0.0,0,0.07745779543197617,1.0,0.0,0.0,6134,src/com/android/calculator2/Calculator.java(611) src/com/android/calculator2/CalculatorDisplay.java(163) src/com/android/calculator2/CalculatorEditText.java(311) src/com/android/calculator2/CalculatorEditable.java(110) src/com/android/calculator2/CalculatorExpressionBuilder.java(93) src/com/android/calculator2/CalculatorExpressionEvaluator.java(85) src/com/android/calculator2/CalculatorExpressionTokenizer.java(71) src/com/android/calculator2/CalculatorPadLayout.java(120) src/com/android/calculator2/CalculatorPadViewPager.java(116) src/com/android/calculator2/CalculatorViewPager.java(40) src/com/android/calculator2/ColorButton.java(65) src/com/android/calculator2/EventListener.java(136) src/com/android/calculator2/History.java(118) src/com/android/calculator2/HistoryAdapter.java(87) src/com/android/calculator2/HistoryEntry.java(69) src/com/android/calculator2/Logic.java(332) src/com/android/calculator2/PanelSwitcher.java(179) src/com/android/calculator2/Persist.java(81) tests/src/com/android/calculator2/CalculatorHitSomeButtons.java(140) tests/src/com/android/calculator2/CalculatorInstrumentationTestRunner.java(41) tests/src/com/android/calculator2/tests/CalculatorLaunchPerformance.java(53) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-m-preview-2,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r14,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r15,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r16,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r17,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r18,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r22,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r23,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r19,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r20,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r24,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.0_r1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r3,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r25,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r26,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r28,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r29,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.0_r11,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r23,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r24,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r25,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r26,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r4,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r2,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r30,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.0_r41,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.0_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r33,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r7,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r9,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r10,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r34,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r11,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.0_r4,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-6.0.1_r16,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r5,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r4,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r35,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r17,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r18,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r22,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r21,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-preview-1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-5.1.1_r36,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-5.1.1_r37,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r20,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r24,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r6,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.0_r5,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-6.0.1_r30,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r31,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-preview-2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.0_r6,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-cts-6.0_r6,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r7,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r40,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r41,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r42,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r43,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r25,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r32,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r27,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r26,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r45,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r33,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r28,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r46,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-preview-3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-wear-n-preview-1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r8,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.0_r7,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-n-preview-4,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r47,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r48,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r49,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r50,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r51,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r52,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r53,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r54,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r55,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r9,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.0_r8,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-5.1.1_r38,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-wear-n-preview-2,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r56,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r57,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r58,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r59,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r60,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r61,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r62,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r63,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-preview-5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r9,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r10,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-5.0_r9,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) ,2925,20358,1.6,162,808,285,326,1933,16977
+android-7.0.0_r1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/Calculator.java(31) src/com/android/calculator2/CalculatorExpressionEvaluator.java(10) src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r67,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r65,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r66,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r68,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r72,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r14,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r69,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r70,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r13,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-n-mr1-preview-1,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r73,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r74,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.0_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r15,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r17,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r19,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r21,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r24,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-mr1-preview-2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r14,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r77,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r9,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r10,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r11,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r27,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-6.0_r14,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r15,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-6.0.1_r78,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r20,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r21,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r28,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r29,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r14,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r15,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r16,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r17,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r22,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r16,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r15,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-mr2-preview-1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-wear-7.1.1_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-iot-preview-2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r17,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r16,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r79,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r30,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r31,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r24,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r25,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r26,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r27,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r28,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r23,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r18,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r17,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r31,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r32,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r33,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r35,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-o-preview-1,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r32,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.0.0_r33,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r38,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-mr2-preview-2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r39,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r40,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r9,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r10,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r11,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r19,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r18,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r9,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r5,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-n-iot-preview-4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-o-preview-2,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r20,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r19,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r10,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r6,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r14,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r15,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r16,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r17,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r41,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r42,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r43,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-wear-o-preview-3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r18,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r19,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r23,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r24,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r25,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r27,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r44,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r45,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r46,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-o-preview-3,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r21,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r20,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r11,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r7,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-6.0.1_r80,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r28,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r29,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r30,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r32,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.2_r33,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r47,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r48,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r49,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r50,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r22,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r21,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r12,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r8,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-o-preview-4,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-5.1_r23,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,170,806,285,326,1933,16977
+android-cts-6.0_r22,0,0,0.0,0,0.0,0,0,0,6134,src/com/android/calculator2/CalculatorExpressionTokenizer.java(30) src/com/android/calculator2/CalculatorNumericPadLayout.java(99) ,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.0_r13,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-cts-7.1_r9,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r51,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r52,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977
+android-7.1.1_r53,0,0,0.0,0,0,0,0,0,6134,,2925,20358,1.6,185,886,285,326,1933,16977

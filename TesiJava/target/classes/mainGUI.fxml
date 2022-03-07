@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.*?>
+<?import io.github.palexdev.materialfx.controls.legacy.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<ScrollPane fitToHeight="true" fitToWidth="true" maxHeight="Infinity" maxWidth="Infinity"
+            xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1">
+    <VBox style="-fx-background-color: rgba(0,0,0,0.84);">
+        <MenuBar fx:id="menuBar" style=" -fx-base: rgba(0,0,0,0.90);  -fx-text-base-color: rgb(71,225,12); ">
+            <Menu text="File">
+                <MenuItem fx:id="resetMenu" text="Reset"/>
+                <Menu fx:id="changeLanguage" text="Language">
+                    <MenuItem fx:id="languageItalian" text="Italiano"/>
+                    <MenuItem fx:id="languageEnglish" text="English"/>
+                </Menu>
+            </Menu>
+        </MenuBar>
+        <TabPane fx:id="tabPane" xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1"
+                 style=" -fx-base: rgba(0,0,0,0.79); ">
+            <tabs>
+                <Tab fx:id="tabInputSelection" closable="false" text="Input Selection"
+                     style=" -fx-text-base-color: rgb(71,225,12);">
+                    <content>
+                        <ScrollPane fitToHeight="true" fitToWidth="true">
+
+                            <GridPane alignment="CENTER" hgap="10" vgap="10">
+
+                                <Label fx:id="textPythonInputRepository" text="Repository: " GridPane.columnIndex="0"
+                                       GridPane.rowIndex="0"/>
+                                <TextField fx:id="textFieldRepository" prefWidth="200"
+                                           GridPane.columnIndex="1" GridPane.rowIndex="0"
+                                           style="-fx-text-fill: rgb(71,225,12); -fx-opacity: 1.0;-fx-background-color: rgba(0,0,0,0.84);"/>
+                                <Label fx:id="textPythonTestingToolName" text="Repository: " GridPane.columnIndex="0"
+                                       GridPane.rowIndex="1"/>
+                                <TextField fx:id="textFieldTestingToolName" prefWidth="200"
+                                            GridPane.columnIndex="1" GridPane.rowIndex="1"
+                                            style="-fx-text-fill: rgb(71,225,12); -fx-opacity: 1.0;-fx-background-color: rgba(0,0,0,0.84);"/>
+                                <Button fx:id="buttonStartPython" GridPane.columnSpan="3" GridPane.rowIndex="2"/>
+                                <CheckBox fx:id="checkboxPythonLast" mnemonicParsing="false" text=""
+                                          GridPane.columnIndex="2" GridPane.rowIndex="0">
+                                    <GridPane.margin>
+                                        <Insets left="30"/>
+                                    </GridPane.margin>
+                                </CheckBox>
+                                <Label fx:id="textPythonlastReleases" GridPane.columnIndex="3"
+                                       GridPane.rowIndex="0"/>
+                                <Spinner fx:id="spinnerLastRelease" GridPane.columnIndex="4" GridPane.rowIndex="0"/>
+                                <Button fx:id="buttonStartExplorer" mnemonicParsing="false" GridPane.columnSpan="5"
+                                        GridPane.rowIndex="3"/>
+                            </GridPane>
+                        </ScrollPane>
+                    </content>
+                </Tab>
+                <Tab fx:id="tabExecutingPython" closable="false" disable="true" text="Executing Python"
+                     style=" -fx-text-base-color: rgb(71,225,12); -fx-background-color: rgba(0,0,0,0.79);">
+                    <content>
+                        <ScrollPane fitToHeight="true" fitToWidth="true">
+                            <VBox alignment="CENTER">
+                                <Label fx:id="textPythonRepository">
+                                    <font>
+                                        <Font size="48.0"/>
+                                    </font>
+                                    <VBox.margin>
+                                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+                                    </VBox.margin>
+                                </Label>
+                                <Label fx:id="textPythonLoading">
+                                    <font>
+                                        <Font size="40.0"/>
+                                    </font>
+                                    <VBox.margin>
+                                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+                                    </VBox.margin>
+                                </Label>
+                                <Label fx:id="textPythonIndex" text="NTR">
+                                    <font>
+                                        <Font size="26.0"/>
+                                    </font>
+                                    <VBox.margin>
+                                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+                                    </VBox.margin>
+                                </Label>
+                                <ProgressIndicator fx:id="progressPython" style="-fx-progress-color:rgb(71,225,12);">
+                                    <VBox.margin>
+                                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+                                    </VBox.margin>
+                                </ProgressIndicator>
+                                <VBox.margin>
+                                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+                                </VBox.margin>
+                            </VBox>
+                        </ScrollPane>
+                    </content>
+                </Tab>
+                <Tab fx:id="tabGrafici" closable="false" text="Strumento Analisi Fragilità"
+                     style=" -fx-text-base-color: rgb(71,225,12); -fx-background-color: rgba(0,0,0,0.79);">
+                    <ScrollPane fitToHeight="true" fitToWidth="true">
+                        <GridPane fx:id="gridPaneStrumento" hgap="10" vgap="10"
+                        >
+                            <Label fx:id="textAreaRepository" text="Repository Name" GridPane.columnSpan="5"
+                                   GridPane.halignment="CENTER" GridPane.rowIndex="0" GridPane.rowSpan="1">
+                                <font>
+                                    <Font size="40"/>
+                                </font>
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                            </Label>
+                            <Label fx:id="textAreaVolatility" text="Volatility Data" GridPane.columnSpan="5"
+                                   GridPane.rowIndex="1" GridPane.rowSpan="3">
+                                <font>
+                                    <Font size="18.0"/>
+                                </font>
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                            </Label>
+
+                            <Label fx:id="labelCodeMetrics" text="Code Metrics" GridPane.columnIndex="0"
+                                   GridPane.rowIndex="4">
+                                <font>
+                                    <Font size="16.0"/>
+                                </font>
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                            </Label>
+                            <GridPane GridPane.columnIndex="0" GridPane.rowIndex="5" hgap="10" vgap="10">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <CheckBox fx:id="checkboxLOC" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="0"/>
+                                <CheckBox fx:id="checkboxCLOC" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="1"/>
+                                <CheckBox fx:id="checkboxNOF" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="2"/>
+                                <CheckBox fx:id="checkboxNOC" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="3"/>
+                                <CheckBox fx:id="checkboxNOM" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="4"/>
+                            </GridPane>
+                            <Label fx:id="labelTestMetrics" text="Test Metrics" GridPane.columnIndex="1"
+                                   GridPane.rowIndex="4">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <font>
+                                    <Font size="16.0"/>
+                                </font>
+                            </Label>
+                            <GridPane GridPane.columnIndex="1" GridPane.rowIndex="5" hgap="10" vgap="10">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <CheckBox fx:id="checkboxTTL" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="0"/>
+                                <CheckBox fx:id="checkboxNTC" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="1"/>
+                            </GridPane>
+                            <Label fx:id="labelRatioMetrics" text="Ratio Metrics" GridPane.columnIndex="2"
+                                   GridPane.columnSpan="2"
+                                   GridPane.rowIndex="4">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <font>
+                                    <Font size="16.0"/>
+                                </font>
+                            </Label>
+                            <GridPane GridPane.columnIndex="2" GridPane.rowIndex="5" hgap="10" vgap="10">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <CheckBox fx:id="checkboxTLR" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="0"/>
+                                <CheckBox fx:id="checkboxMTLR" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="1"/>
+                                <CheckBox fx:id="checkboxMRTL" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="2"/>
+                                <CheckBox fx:id="checkboxMCR" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="3"/>
+                                <CheckBox fx:id="checkboxMMR" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="4"/>
+                                <CheckBox fx:id="checkboxMCMMR" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="5"/>
+                            </GridPane>
+
+                            <Label fx:id="labelFragilityMetrics" text="Fragility Metrics" GridPane.columnIndex="3"
+                                   GridPane.rowIndex="4">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <font>
+                                    <Font size="16.0"/>
+                                </font>
+                            </Label>
+
+                            <GridPane GridPane.columnIndex="3" GridPane.rowIndex="5" hgap="10" vgap="10">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <CheckBox fx:id="checkboxCC" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="0"/>
+                                <CheckBox fx:id="checkboxCODE_SMELL" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="1"/>
+                                <CheckBox fx:id="checkboxTD" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="2"/>
+                                <CheckBox fx:id="checkboxDEBT_RATIO" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="3"/>
+                                <CheckBox fx:id="checkboxSTAT" mnemonicParsing="false" GridPane.columnIndex="0"
+                                          GridPane.rowIndex="4"/>
+                            </GridPane>
+
+                            <HBox GridPane.rowIndex="13" GridPane.columnSpan="5">
+                                <GridPane.margin>
+                                    <Insets left="30"/>
+                                </GridPane.margin>
+                                <MFXButton fx:id="buttonShowGraphs" buttonType="RAISED" mnemonicParsing="false"
+                                           text="Visualizza grafici">
+
+                                    <HBox.margin>
+                                        <Insets right="50.0"/>
+                                    </HBox.margin>
+                                </MFXButton>
+                                <MFXButton fx:id="buttonShowChanges" buttonType="RAISED" mnemonicParsing="false"
+                                           text="Visualizza Cambiamenti"
+                                >
+
+                                    <HBox.margin>
+                                        <Insets right="50.0"/>
+                                    </HBox.margin>
+                                </MFXButton>
+                                <MFXButton fx:id="buttonShowBoxPlot" buttonType="RAISED" mnemonicParsing="false"
+                                           text="Visualizza BoxPlot"/>
+                            </HBox>
+                        </GridPane>
+                    </ScrollPane>
+                </Tab>
+                <Tab fx:id="tabStatistiche" closable="false" text="Statistiche"
+                     style=" -fx-text-base-color: rgb(71,225,12); -fx-background-color: rgba(0,0,0,0.79);">
+                    <content>
+                        <ScrollPane fitToHeight="true" fitToWidth="true"
+                        >
+                            <StackPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308"
+                                       minHeight="-Infinity" minWidth="-Infinity"
+                            >
+                                <MFXLegacyTableView fx:id="tableStatistiche" minHeight="-Infinity" minWidth="-Infinity"
+                                                    prefHeight="551.0" prefWidth="776.0" StackPane.alignment="TOP_LEFT">
+                                    <StackPane.margin>
+                                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+                                    </StackPane.margin>
+                                </MFXLegacyTableView>
+                            </StackPane>
+                        </ScrollPane>
+                    </content>
+                </Tab>
+            </tabs>
+        </TabPane>
+    </VBox>
+</ScrollPane>
